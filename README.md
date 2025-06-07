@@ -38,7 +38,7 @@ Certificado como Solutions Architect, combino experiencia técnica con visión d
 - [LinkedIn](https://linkedin.com/in/facundocapua)
 - [GitHub](https://github.com/facundocapua)
 - [X/Twitter](https://x.com/facundocapua)
-- Email: facundocapua@gmail.com
+- [Email](mailto:me@facundocapua.dev)
 
 ## 🔧 Sobre este sitio
 
