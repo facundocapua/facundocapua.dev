@@ -2,8 +2,6 @@
 
 > Bienvenido/a a mi perfil profesional. Aquí encontrarás información sobre mi experiencia, habilidades y formas de contactarme.
 
-![Facundo Capua](https://github.com/facundocapua/facundocapua.dev/blob/main/public/avatar.webp?raw=true)
-
 ## 👨‍💻 Perfil Profesional
 
 Desarrollador Full Stack especializado en e-Commerce con Adobe Commerce y arquitectura en AWS. 
