@@ -1,48 +1,51 @@
-# Astro Starter Kit: Basics
+# Facundo Capua - Desarrollador Full Stack
 
-```sh
-pnpm create astro@latest -- --template basics
-```
+> Bienvenido/a a mi perfil profesional. Aquí encontrarás información sobre mi experiencia, habilidades y formas de contactarme.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+![Facundo Capua](https://github.com/facundocapua/facundocapua.dev/blob/main/public/avatar.webp?raw=true)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 👨‍💻 Perfil Profesional
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Desarrollador Full Stack especializado en e-Commerce con Adobe Commerce y arquitectura en AWS. 
+Certificado como Solutions Architect, combino experiencia técnica con visión de negocio para crear soluciones digitales escalables y de alto rendimiento.
 
-## 🚀 Project Structure
+## 🛠️ Especialidades
 
-Inside of your Astro project, you'll see the following folders and files:
+- **e-Commerce**: Desarrollo y optimización de plataformas Adobe Commerce (Magento)
+- **Arquitectura Cloud**: Diseño e implementación de soluciones en AWS
+- **Desarrollo Full Stack**: Implementación de aplicaciones web modernas y optimizadas
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 🏆 Certificaciones
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+- Adobe Certified Professional - Adobe Commerce Business Practitioner
+- AWS Certified Solutions Architect – Professional
+- AWS Certified Solutions Architect – Associate
+- Magento Certified Developer Plus
 
-## 🧞 Commands
+## 💻 Tecnologías
 
-All commands are run from the root of the project, from a terminal:
+**Frontend:** JavaScript/TypeScript, React, Next.js, Tailwind CSS, Astro
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+**Backend:** Node.js, PHP, Adobe Commerce (Magento)
 
-## 👀 Want to learn more?
+**Cloud & DevOps:** AWS (Amazon Web Services), Docker, CI/CD
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 🌐 Idiomas
+
+- Español (Nativo)
+- Inglés (Profesional)
+
+## 📬 Contacto
+
+- [LinkedIn](https://linkedin.com/in/facundocapua)
+- [GitHub](https://github.com/facundocapua)
+- [X/Twitter](https://x.com/facundocapua)
+- Email: facundocapua@gmail.com
+
+## 🔧 Sobre este sitio
+
+Este repositorio contiene mi sitio web personal, construido con Astro y Tailwind CSS. Presenta un diseño minimalista con tema oscuro que refleja mi identidad profesional y facilita el acceso a mi información de contacto y perfil.
+
+## 📄 Licencia
+
+[MIT](LICENSE)
